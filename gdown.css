@@ -1,0 +1,91 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 18 Apr, 2021, 12:42:33 PM
+    Author     : Admin
+*/
+.root{
+    -fx-background-image: url("background.jpg");
+}
+
+.table-view{
+        -fx-font-family: "Script MT Bold";
+         -fx-font-size: 13;
+        -fx-text-fill: black;
+        -fx-font-weight:Bold;
+        -fx-opacity: 0.8;
+}
+
+.radio-button{
+    -fx-font-family: "Bell MT";
+    -fx-font-size: 14;
+    -fx-text-fill: #000b2c;
+    -fx-font-weight: Bold;
+}
+
+.tree-view{
+    -fx-font-family:"Script MT Bold";
+    -fx-text-fill: black;
+    -fx-font-size:13;
+    -fx-font-weight:Bold;
+    -fx-opacity: 0.8;
+}
+.label{
+    -fx-font-family: "Bell MT";
+    -fx-font-size: 13;
+    -fx-text-fill: #000b2c;
+    -fx-font-weight:Bold;
+}
+#dir{
+    -fx-font-family: "Bell MT";
+    -fx-font-size: 12;
+    -fx-text-fill: white;
+    -fx-font-weight: Bold;
+}
+#choosedir{
+    -fx-background-color: #821e15;
+    -fx-background-radius: 5;
+    -fx-font-family:"Bell MT";
+    -fx-font-size:13;
+    -fx-text-fill: white;
+    -fx-font-weight: Bold;
+}
+.button{
+    -fx-background-color: whitesmoke;
+    -fx-background-radius: 5;
+    -fx-font-family:"Bell MT";
+    -fx-font-size:13;
+    -fx-text-fill: black;
+    -fx-font-weight: Bold;
+}
+
+#conn{
+    -fx-background-color: #8b008b;
+    -fx-background-radius: 5;
+    -fx-font-family:"Bell MT";
+    -fx-font-size:13;
+    -fx-text-fill: white;
+    -fx-font-weight: Bold;
+}
+
+#getd{
+    -fx-background-color: #459688;
+    -fx-background-radius: 5;
+    -fx-font-family:"Bell MT";
+    -fx-font-size:13;
+    -fx-text-fill: white;
+    -fx-font-weight: Bold;
+}
+#im{
+    -fx-opacity:0.5;
+}
+#close{
+    -fx-background-color: black;
+    -fx-text-fill: white;
+    -fx-font-family: "Calibri";
+    -fx-font-size:12;
+    -fx-background-radius: 0;
+}
